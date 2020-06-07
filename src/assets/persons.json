@@ -12547,4 +12547,20 @@
         }
       }
   ]
-}
+},
+{
+    "id": 869,
+    "name": "Tanjeel Ahmed",
+    "img": "",
+    "links": {
+      "website": "http://tanjeel.pythonanywhere.com/",
+      "linkedin": "https://www.linkedin.com/in/tanjeel-ahmed-71553514b/",
+      "github": "https://github.com/Tanjeel"
+    },
+    "jobTitle": "Python Developer",
+    "location": {
+      "city": "Dhaka",
+      "state": "",
+      "country": "Bangladesh"
+    }
+  }
